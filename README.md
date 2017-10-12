@@ -1,4 +1,4 @@
-# Quotes
+# Quotes #
 This is just a list of quotes that I enjoy.
 
 ## Aristotle - Ethics and the Nature of Happiness ##
@@ -14,3 +14,10 @@ _“I have no problem if you aim high and miss, but I do have a problem if you a
 
 ## Henry Ford ##
 _“Whether you think you can, or you think you can't--you're right.”_
+
+
+## Chinese Proverb ##
+_“The best time to plant a tree was 20 years ago. The second best time is now.”_
+
+## Socrates ##
+_“When you want wisdom and insight as badly as you desired that breath of air, then you shall have it”_
