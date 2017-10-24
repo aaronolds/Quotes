@@ -21,3 +21,12 @@ _“The best time to plant a tree was 20 years ago. The second best time is now.
 
 ## Socrates ##
 _“When you want wisdom and insight as badly as you desired that breath of air, then you shall have it”_
+
+## Tolstoy ##
+_"Everyone thinks of changing the world, but no one thinks of changing himself."_
+
+## Unknown ##
+_"Winners go into battle having already won and losers go into battle and try to win."_
+
+## Uknown ##
+_"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots.  So far, the Universe is winning."_
