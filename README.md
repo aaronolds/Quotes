@@ -30,3 +30,6 @@ _"Winners go into battle having already won and losers go into battle and try to
 
 ## Uknown ##
 _"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots.  So far, the Universe is winning."_
+
+## Uknown ##
+_"It costs nothing to have faith in God, but it could coast you everthing if you do not."_
