@@ -26,10 +26,10 @@ _“When you want wisdom and insight as badly as you desired that breath of air,
 _"Everyone thinks of changing the world, but no one thinks of changing himself."_
 
 ## Unknown ##
-*_"Winners go into battle having already won and losers go into battle and try to win."_
-*_"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots.  So far, the Universe is winning."_
-*_"It costs nothing to have faith in God, but it could coast you everthing if you do not."_
-*_"Understanding is more important than knowledge, don't confure the two.  The world is full of peopole educated beyond their intelligence._
-*_"A smart person doesn't necessarily know everything, just where to find it."_
-*_"It's more important to konw what you don't know, than it is to know what you know."_
-*_"The user is your customer, you shouldlear to think like them rather than requiring them to think lik you."_
+* _"Winners go into battle having already won and losers go into battle and try to win."_
+* _"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots.  So far, the Universe is winning."_
+* _"It costs nothing to have faith in God, but it could coast you everthing if you do not."_
+* _"Understanding is more important than knowledge, don't confure the two.  The world is full of peopole educated beyond their intelligence._
+* _"A smart person doesn't necessarily know everything, just where to find it."_
+* _"It's more important to konw what you don't know, than it is to know what you know."_
+* _"The user is your customer, you shouldlear to think like them rather than requiring them to think lik you."_
