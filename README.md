@@ -28,6 +28,14 @@ _"Everyone thinks of changing the world, but no one thinks of changing himself."
 ## John Wheeler ##
 _“Spacetime grips mass, telling it how to move... Mass grips spacetime, telling it how to curve”_
 
+## Ravi Zacharias quoting Malcolm Muggeridge ##
+In this Sargasso Sea of fantasy and fraud, how can I or anyone else hope to swim unencumbered? How can I learn to see with, and not just through, the eye? How can I take off my own motley, wash away the makeup, raise the iron shutter, put out the studio lights, silence the sound effects, and put the cameras to sleep? Can I ever watch the sun rise on Sunset Boulevard, and the sun set over Forest Lawn?
+
+Will I ever find real furniture among the studio props, silence in a discotheque, love in a strip tease? Read truth off an auto cue, catch it on a screen, chase it on the wings of music? View it in living color with the news, hear it in living sound along the motorways? No, not in the wind that rent the mountains and broke in pieces the rocks; not in the earthquake that followed, nor in the fire that followed the earthquake. I think I could probably hear it in that still, small voice. Not in the screeching of tires, either, or in the grinding of brakes; nor in the roar of jets or the whistle of sirens, or the howl of trombones, or the rattle of drums, or the chanting of demo voices. Again and again and again. I long for that still, small voice – if one could only catch it.
+
+## Ravi Zacharias ##
+In a world of hate, mockery will agenda more hate.
+
 ## Unknown ##
 * _"Winners go into battle having already won and losers go into battle and try to win."_
 * _"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots.  So far, the Universe is winning."_
