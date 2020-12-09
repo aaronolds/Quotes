@@ -34,5 +34,5 @@ _“Spacetime grips mass, telling it how to move... Mass grips spacetime, tellin
 * _"It costs nothing to have faith in God, but it could coast you everthing if you do not."_
 * _"Understanding is more important than knowledge, don't confure the two.  The world is full of peopole educated beyond their intelligence._
 * _"A smart person doesn't necessarily know everything, just where to find it."_
-* _"It's more important to konw what you don't know, than it is to know what you know."_
-* _"The user is your customer, you shouldlear to think like them rather than requiring them to think lik you."_
+* _"It's more important to know what you don't know, than it is to know what you know."_
+* _"The user is your customer, you should learn to think like them rather than requiring them to think lik you."_
